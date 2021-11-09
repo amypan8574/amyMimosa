@@ -1,0 +1,8 @@
+
+spring:
+  application:
+    name: getting-started-Amy
+
+server:
+  port: 8081
+
